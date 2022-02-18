@@ -74,7 +74,7 @@ E para organizalos em uma forma que você queira é so você ir para o conteiner
 ---
 ### Sexto passo.B como usar o grid-template-areas:;?
 Isso é super simples basta você já ter as "variaveis" setadas e apenas utilizar assim: 
-´´´
+```
 .container{
     grid-template-area:"H H" "M A" "F F";
     /*
@@ -97,7 +97,7 @@ footer{
     background-color: yellow;
     grid-area: f;
 }
-´´´
+```
 ---
 # Finalização 
 Bem ainda não acabou por completo porem a parte mais "iportante já chegou ao fim"
