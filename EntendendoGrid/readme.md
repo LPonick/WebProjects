@@ -108,12 +108,14 @@ _continuando_
 ---
 ## Grid e seu alinhamento
 Para comçar o alinhamento do grid é dividido em 6 propriedades sendo elas:
+```
 *`justify-content`
 *`justify-itens`
 *`justify-self`
 *`aling-content`
 *`aling-itens`
 *`aling-self`
+```
 ---
 Essas propriedades so podem ser usadas caso o noso grid seja menor que o tamanho da tela.
 
@@ -122,12 +124,19 @@ O justify é o eixo X do grid e o aling o eixo Y do grid
 ## justify, aling -content:
 Ao total você pode utilizar 7 valores sendo eles:
 *start
+
 *end
+
 *center
+
 *stretch
+
 *space-between
+
 *space-around
+
 *space-evenly
+
 
 Ambos (justify e o aling) tem essas todas propridades, sendo a unica diferença o eixo 
 ---
