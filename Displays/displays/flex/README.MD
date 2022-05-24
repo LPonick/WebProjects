@@ -72,9 +72,9 @@ SZ Hello Hi :3
 <!--Lembre se, Com o display flex por padrão os elemntos filhos irão se comportar colocando se para a horizontal-->
 ````
 
-*__Obs1:__*O número do "order" não precisa seguir uma sequencia indo do 0 para cima, ou seja pode se usar números negativos 
+*__Obs1:__*O número do "order" não precisa seguir uma sequencia indo do 0 para cima, ou seja pode se usar números negativos.
 
-*__Obs2:__*No caso de essa propriedade ser usada ("order") você deve por em **TODOS** os elementos um "order" com um número.
+*__Obs2:__*No caso de essa propriedade ser usada ("order") todos os elementos por padrão é "0"
 
 ___
 
@@ -98,7 +98,21 @@ e caso você queria fazer um alinhamento **vertical** você devera usar o **alin
 
 ___
 
-Esses são alguns dos conceitos principais e mais interessantes sobre essa propriedade.
+## _Configurando os espaços das linhas_
+
+_Recomendo a visualização do index.html dessa pasta._
+
+Caso tenha um bloco acima do outro você pode usar a propriedade __Space-around__ com essa propriedade você consegue alterar o espaçamento de um conteúdo para o outro.
+
+___
+
+## _Configuração de tamanho sem witdh_
+
+essa propriedade é para ser usada nos conteúdos/filhos, __Flex-grow__.
+
+
+
+
 
 
 
