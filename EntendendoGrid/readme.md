@@ -20,7 +20,7 @@ Alguns dos principais codigos para configurar seu __CONTAINER__(o container ness
 ```
 
 E mais 4 outras propriedades de **alinhamento**...
-OBS01:Deido a constante atualização da linguagem css a propriedade grid-gap __NÃO EXISTE MAIS__ porem, foi substituida/simplificada para apenas gap:;
+OBS01:Diante a constante atualização da linguagem css a propriedade grid-gap __NÃO EXISTE MAIS__ porem, foi substituida/simplificada para apenas gap:;
 ---
 Agora a configuração do conteudo ,ites ou Selulas 
 ```
